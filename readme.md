@@ -1,3 +1,8 @@
+# Mirror of Wes Bos' 30 Vanilla JS apps in 30 days 
+
+
+________________________________________________________________________________________________________________________________________
+
 ![](https://javascript30.com/images/JS3-social-share.png)
 
 # JavaScript30
